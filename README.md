@@ -6,7 +6,6 @@ I'm a passionate Software Engineer with a focus on building robust systems using
 - **Languages:** Rust, Go, Java
 - **Databases:** ScyllaDB, MySQL
 - **Tools & Technologies:** Linux, Git, Docker, Hyperledger Fabric, Blockchain
-- **Other Skills:** REST API development, Smart Contracts, End-to-End Testing
 
 ## 🌱 What I'm Currently Working On
 - Improving financial infrastructure with scalable, secure Rust applications.
