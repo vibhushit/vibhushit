@@ -13,4 +13,4 @@ I'm a passionate Software Engineer with a focus on building robust systems using
 - Exploring advanced concepts in blockchain and decentralized finance.
 
 ## 📫 Let's Connect
-- **LinkedIn:** [linkedin.com/in/vibhushit-tyagi](https://www.linkedin.com/in/vibhushit-tyagi)
+- **LinkedIn:** [vibhushit-tyagi](https://www.linkedin.com/in/vibhushit-tyagi)
